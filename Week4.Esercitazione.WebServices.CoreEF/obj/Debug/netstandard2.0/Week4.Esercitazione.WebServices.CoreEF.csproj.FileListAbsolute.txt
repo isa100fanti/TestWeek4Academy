@@ -1,0 +1,12 @@
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\bin\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.deps.json
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\bin\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.dll
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\bin\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.pdb
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\bin\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.dll
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\bin\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.pdb
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\obj\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.csprojAssemblyReference.cache
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\obj\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.AssemblyInfoInputs.cache
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\obj\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.AssemblyInfo.cs
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\obj\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.csproj.CoreCompileInputs.cache
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\obj\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.csproj.CopyComplete
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\obj\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.dll
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.Esercitazione.WebServices.CoreEF\obj\Debug\netstandard2.0\Week4.Esercitazione.WebServices.CoreEF.pdb

@@ -1,0 +1,9 @@
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.EsercitazioneWebServices.Core\bin\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.deps.json
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.EsercitazioneWebServices.Core\bin\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.dll
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.EsercitazioneWebServices.Core\bin\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.pdb
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.EsercitazioneWebServices.Core\obj\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.csprojAssemblyReference.cache
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.EsercitazioneWebServices.Core\obj\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.AssemblyInfoInputs.cache
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.EsercitazioneWebServices.Core\obj\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.AssemblyInfo.cs
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.EsercitazioneWebServices.Core\obj\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.csproj.CoreCompileInputs.cache
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.EsercitazioneWebServices.Core\obj\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.dll
+C:\Users\isabella.centofanti\source\repos\ACADEMY\Week4.EsercitazioneWebServices\Week4.EsercitazioneWebServices.Core\obj\Debug\netstandard2.0\Week4.EsercitazioneWebServices.Core.pdb
